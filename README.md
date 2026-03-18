@@ -65,7 +65,7 @@
 ## 🚀 Быстрый старт
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/твой-ник/rum.git
+git clone https://github.com/DorianNox/rum.git
 cd rum
 
 # 2. Установи зависимости
